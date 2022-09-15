@@ -88,7 +88,7 @@ body{
     background: transparent url('/image/home_display.jpg') no-repeat center center;
     background-size: 145% 110%;
     background-position: -20% 0 0 0;
-    -webkit-clip-path: polygon(0 0, 0 100px, 100px 80px, 100px 0);
+    -webkit-clip-path: polygon(0 0, 0 100%, 100% 80px, 100% 0);
     clip-path: polygon(10% 0, 0 100%, 100% 100%, 100% 0);
 }
 

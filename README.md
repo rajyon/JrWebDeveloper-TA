@@ -16,5 +16,5 @@
 </ol>
 <p>[*]: Screenshots provided at: TA_files/screenshots/back-end</p>
 
-<h2>Additional Part : SQL Statement</h2>
+<h2>Additional Part : SQL Statement [Incorrect/incomplete*]</h2>
 <p>statement.sql: SQL file provided at: TA_files/</p>
